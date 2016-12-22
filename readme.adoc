@@ -1,0 +1,2 @@
+
+Robo-Magellan is a robotics competition emphasizing autonomous navigation and obstacle avoidance over varied, outdoor terrain. Robots have three opportunities to navigate from a starting point to an ending point and are scored on time required to complete the course with opportunities to lower the score based on contacting intermediate points.
